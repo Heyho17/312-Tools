@@ -42,14 +42,14 @@ toilet -f big -F gay Login
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "one" ]
+if [ $pass = "######" ]
         then
-        echo [•]"Pasword Benar"
+        echo [•]"Pasword Salah"
         sleep 2
 clear
         else
-        echo [•]" Pasword Salah"
-        echo [•]" Ulangi Lagi "
+        echo [•]" Pasword Benar"
+        echo [•]" SELAMAT :P"
         sleep 3
         sh CBC.sh
         sleep 4
