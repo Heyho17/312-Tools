@@ -37,12 +37,12 @@ clear
 clear
 toilet -f big -F gay Login
 #pasword
-        read -p "[•]Masukan Username : " username
+        read -p "[•]Masukan Username : " Mr.heyho
         read -p "[•]Masukan Pasword : " pass
 echo $pass $username
 sleep 1
 echo
-if [ $pass = "######" ]
+if [ $pass = "####" ]
         then
         echo [•]"Pasword Salah"
         sleep 2
