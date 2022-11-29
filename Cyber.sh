@@ -51,6 +51,8 @@ clear
         echo [•]" Pasword Benar"
         echo [•]" SELAMAT :P"
         sleep 3
+        echo [•]" TAPI BOHONG :V"
+        sleep 2
         sh Cyber.sh
         sleep 4
 fi
