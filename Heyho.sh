@@ -57,7 +57,8 @@ clear
         sleep 5
 fi
 sleep 2
-
+xdg-open https://www.youtube.com/@Heyho-Cyber
+sleep 3
 
 figlet MR.HEYHO  | lolcat
 
@@ -102,7 +103,7 @@ echo ""
 echo ""
 
 echo -e "######################################" | lolcat
-echo -e "@           MOHON BERSABAR            " | lolcat
+echo -e "@           MOHON BERSABAR           @" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
