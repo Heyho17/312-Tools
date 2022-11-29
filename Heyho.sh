@@ -1,7 +1,7 @@
 #!/bin/bash
 #version 1.0
 
-#MAU NGAPAIN TOT?:V
+#MAU NGAPAIN TOT?
 #RECODE?REEDIT?RECOPYRIGHT?COPAS?
 #MALU TOLOL!!!
 #KAGA BERMORAL!
@@ -74,8 +74,7 @@ echo [•]"===========================================================[•]" | l
 echo    "[ENTER TO CONTINUE]                                           " | lolcat
 echo    "___________________|" | lolcat
 read -p "~>"
-
-sleep 1
+sleep 3
 
 ###################################################
 # CTRL + C
