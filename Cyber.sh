@@ -43,7 +43,7 @@ toilet -f big -F gay Login
 echo $Pass $Username
 sleep 1
 echo
-if [ $pass = "####" ]
+if [ $pass ="####" ]
         then
         echo [•]"Pasword Salah"
         sleep 2
