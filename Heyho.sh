@@ -57,6 +57,7 @@ clear
         sleep 5
 fi
 sleep 2
+
 xdg-open https://www.youtube.com/@Heyho-Cyber
 sleep 3
 
@@ -75,7 +76,7 @@ echo [•]"===========================================================[•]" | l
 echo    "[ENTER TO CONTINUE]                                           " | lolcat
 echo    "___________________|" | lolcat
 read -p "~>"
-sleep 3
+sleep 5
 
 ###################################################
 # CTRL + C
