@@ -3044,7 +3044,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install SMS-Wa-v0.2
 
-312) https://github.com/Heyho17/SMS-Wa-v0.2.git
+312) git clone https://github.com/Heyho17/SMS-Wa-v0.2.git
 echo -e "${y} Cara Menggunakan SMS-Wa-v0.2..."
 echo -e "${y} ls"
 echo -e "${y} cd SMS-Wa-v0.2"
