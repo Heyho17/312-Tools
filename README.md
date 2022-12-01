@@ -8,7 +8,8 @@
 
 Info FACEBOOK : ANISSA SYAHPUTRI 
 
-#SEMUA TOOLS YG KALIAN INSTALL ADA DI DIRECTORY                                     
+#SEMUA TOOLS YG KALIAN INSTALL ADA DI DIRECTORY                                      
+#312 TOOLS INI                                                 
 
 #CARA LIAT DIRECTORY NYA SETELAH KALIAN INSTALL                     
 #TOOLS NYA ? LANGSUNG SAJA PILIH EXIT [00]                                            
